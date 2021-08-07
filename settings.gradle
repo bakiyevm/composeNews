@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "movies-compose"
+include ':core'
+include ':feature:landing'
